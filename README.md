@@ -11,5 +11,3 @@ Things I really love:
 
 This is my website: http://darchuletajr.com
 Hopefully I will stick to updating it more often from now on.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davearch)](https://github.com/davearch/github-readme-stats)
